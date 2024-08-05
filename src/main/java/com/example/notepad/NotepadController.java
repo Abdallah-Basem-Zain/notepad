@@ -10,7 +10,7 @@ import javafx.scene.control.TextArea;
 import java.io.*;
 import java.util.Optional;
 
-public class HelloController {
+public class NotepadController {
 
     @FXML
     private TextArea text_Area;
